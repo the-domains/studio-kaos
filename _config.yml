@@ -1,0 +1,14 @@
+layout_spectrum: 0.8276047
+typography_spectrum: 0.6353384
+color:
+  saturation: 0.4169087
+  lightness: 0.9443454
+  brandStrength: 1
+  brandColors:
+    - '#D0D1CE'
+    - '#997F65'
+    - '#6E92A4'
+    - '#20429B'
+    - '#1E171F'
+  rhythmicContrast: 0.3434498
+name: Studio Kaos
